@@ -1,6 +1,11 @@
 # [Awesome-darknet](https://github.com/remiflavien1/Awesome-darknet)
 Networks and Tools that are used to access and navigate on darknets
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+
+
 # Networks & Protocol
 
 ## FreeNet
@@ -160,3 +165,11 @@ Tor is an anonymizing TCP overlay network proxy implemented as a cryptographic m
 * [Orchid](https://www.orchid.com/) - A next-level VPN & privacy tool
 
 * [Freepto](https://github.com/AvANa-BBS/freepto-lb) - Encrypted GNU/Linux OS (based on Debian Wheezy) which can be installed on USB flash drive. Freepto is designed for encrypt your communications, carry your documents in secure way and save your anonymity - STATUS : ABANDONED
+
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law,  [remiflavien1](https://github.com/remiflavien1) has waived all copyright and
+related or neighboring rights to this work.
