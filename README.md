@@ -70,9 +70,9 @@ The Invisible Internet Project (I2P) is an anonymous network layer (implemented 
   
 * [BOB](http://www.i2p2.de/en/docs/api/bob) : Simple client protocol for interacting with I2P but technically different of SAM
   
-* [Orchid]() :
+* [Orchid]() : 
   
-* [The "BigBrother" I2P]() :
+* [The "BigBrother" I2P]() : 
   
 * [The Abscond browser bundle]() :
 
@@ -148,3 +148,15 @@ Tor is an anonymizing TCP overlay network proxy implemented as a cryptographic m
 * [Awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 
 ## [Retroshare]() 
+
+* [retroshare](https://retroshare.cc/) - Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends. Retroshare is entirely free and open-source software. It is available on Android, Linux, MacOS and Windows. 
+
+## [OTHERS]()
+
+* [ANts P2P](http://antsp2p.sourceforge.net/) - ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and it makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.
+
+* [JAP](https://anon.inf.tu-dresden.de/index_en.html) - JAP makes it possible to surf the internet anonymously and unobservably.
+
+* [Orchid](https://www.orchid.com/) - A next-level VPN & privacy tool
+
+* [Freepto](https://github.com/AvANa-BBS/freepto-lb) - Encrypted GNU/Linux OS (based on Debian Wheezy) which can be installed on USB flash drive. Freepto is designed for encrypt your communications, carry your documents in secure way and save your anonymity - STATUS : ABANDONED
