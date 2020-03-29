@@ -76,23 +76,21 @@ The Invisible Internet Project (I2P) is an anonymous network layer (implemented 
   
 * [BOB](http://www.i2p2.de/en/docs/api/bob) : Simple client protocol for interacting with I2P but technically different of SAM
   
-* [Orchid]() : 
+* [Orchid](https://www.orchid.com/how-it-works) : The Crypto Powered VPN - The Orchid network enables a decentralized virtual private network (VPN), allowing users to buy bandwidth from a global pool of service providers. To do this, Orchid uses a new digital currency called OXT, a new VPN protocol for incentivized bandwidth proxying, and smart-contracts with algorithmic advertising and payment functions. Orchid's users connect to bandwidth sellers using a provider directory, and they pay using probabilistic nanopayments so Ethereum transaction fees on packets are acceptably low.
   
-* [The "BigBrother" I2P]() : 
   
-* [The Abscond browser bundle]() :
+* [The Abscond browser bundle](https://github.com/PrivacySolutions/Abscond-Browser) : I2P browser based on mozzila 
 
 ### Messaging
 
-* [IRC]() -  #i2p-fr, #i2p-help, #i2p
+* [IRC](https://i2pd.readthedocs.io/en/latest/tutorials/irc/) -  #i2p-fr, #i2p-help, #i2p
   
-* [I2P-Messenger]() -
+* [I2P-Messenger](https://geti2p.net/fr/docs/applications/supported) - I2P has its anonymous instant messaging system, encrypted from start to finish. I2P-Messenger works in a decentralized way.
   
-* [I2P-Talk]() -
 
-## File Sharing
+### File Sharing
 
-* [I2PSnark](http://www.i2p2.de/en/download) : Bittorent over i2p.
+* [I2PSnark](https://geti2p.net/en/docs/applications/supported) : I2P's integrated BitTorrent client. [http://127.0.0.1:7657/i2psnark/]
   
 * [Vuze](https://www.vuze.com/) : Vuze is the only client that makes clearnet torrents available on I2P and vice versa.
 
@@ -100,17 +98,19 @@ The Invisible Internet Project (I2P) is an anonymous network layer (implemented 
   
 * [I2PRufus]() -
   
-* [Robert (P2P Software)]() - 
+* [Robert (P2P Software)]() - A fork of rufus that uses the Basic Open Bridge (BOB) and has many improvements, including using the latest wxwidgets and python. It also supports use of seedless if installed for trackerless torrents and magnet-link like fetching of torrents within I2P. [http://bob.i2p.xyz/Robert.html]
   
+* [Transmission](https://transmissionbt.com/) :  Clean, full-featured cross-platform BitTorrent client with official ports for several GUI toolkits.
+
 * [XD]() -
   
-* [iMule]() -
+* [iMule](https://wiki.p2pfr.com/p2p/imule) - Free and open-source anonymous P2P file sharing utility which connects through the anonymous I2P network and the Kad network.
   
-* [Nachtblitz]() -
+* [Nachtblitz](https://web.archive.org/web/20170923091405/http://echelon.i2p.xyz/nachtblitz/) - It was a custom client built on the .NET Framework. The latest version is 1.4.27, released on March 23, 2016
   
-* [I2Phex]() -
+* [I2Phex](https://sourceforge.net/projects/i2phex/) - Anonymous Phex is a peer-to-peer file sharing client for the gnutella network.
   
-* [Tahoe-LAFS]() -
+* [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security. [Maintained in 2020]
 
 ### Email
 
@@ -124,28 +124,28 @@ The Invisible Internet Project (I2P) is an anonymous network layer (implemented 
 
 * [Syndie](http://syndie.de/) - an open-source cross-platform computer application to syndicate (re-publish) data (mainly forums) over a variety of anonymous and non-anonymous computer networks.
   
-* [Aktie]() -
+* [Aktie](https://github.com/retsamknaps/Aktie) - An anonymous file sharing and distributed Web of trust forums system. Aktie can connect to I2P with its internal router or use an external router. To fight spam, "hash payments" (proof of CPU work) is computed for every published item.
 
 ### Routers
 
-* [I2PBerry]() - 
+* [I2PBerry](https://github.com/m6urns/i2pberry) - I2Pberry - I2P for the Raspberry Pi
   
-* [i2pd]() -
+* [i2pd](https://i2pd.website/) - i2pd (I2P Daemon) is a full-featured C++ implementation of I2P client. - [Github](https://github.com/PurpleI2P/i2pd)
   
-* [Kovri]() -
+* [Kovri](https://gitlab.com/kovri-project/kovri) - Kovri is a C++ implementation of the I2P network. Kovri is currently in heavy, active development and not yet integrated with Monero. When Kovri is integrated into your Monero node, your transactions will be more secure than ever before.
 
 ### Android
 
-* [Nightweb]() - 
+* [Nightweb](https://github.com/oakes/Nightweb) - Nightweb was an app for Android devices and PCs that connects you to an anonymous, peer-to-peer social network. It is written in Clojure and uses I2P and BitTorrent on the backend. Please see the website for a general overview, and the protocol page for a more in-depth explanation of how it works.
 
 
-## [Tor]()
+## [Tor](https://www.torproject.org/)
 
 Tor is an anonymizing TCP overlay network proxy implemented as a cryptographic mixnet.
 
 
 ### Tor Software : 
- * [Tor Browser](https://www.torproject.org/download/) -
+ * [Tor Browser](https://www.torproject.org/download/) - The Tor Browser automatically starts Tor background processes and routes traffic through the Tor network. Upon termination of a session the browser deletes privacy-sensitive data such as HTTP cookies and the browsing history
   
  * [Onion Browser](https://itunes.apple.com/fr/app/onion-browser-secure-anonymous/id519296448?mt=8&ign-mpt=uo%3D4) - OpenSource IOS browser using Tor Network.
 
